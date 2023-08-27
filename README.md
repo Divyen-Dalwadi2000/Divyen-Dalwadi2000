@@ -1,3 +1,9 @@
+<style>
+    img
+    {
+        height : 4vh;
+    }
+</style>
 <h1 align="center">Hi 👋, I'm Divyen Dalwadi</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
