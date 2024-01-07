@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Divyen Dalwadi</h1>
-<h1 align="center">Hey 👋, I'm Semil Khedawala </h1>
+
 
 [![](https://visitcount.itsvg.in/api?id=semil338&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/semil_601) [![LinkedIn]([Divyen Dalwadi](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHZQSRQAVX7UAAAAYzlQXcQtmakoMUkmv-vuc_LLpCS3SjNz8Kv_qJOH1CeECcTicgDRtt6cqwpwIqj6aKeyeVixIIYtgHcjyvlY8i5AYeyJFP7nr_ltRMhqsEa68EjRLv9XIs=&original_referer=https://www.canva.com/&sessionRedirect=https%3A%2F%2Fin.linkedin.com%2Fin%2Fdivyen-dalwadi-638a15238)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyen-dalwadi-638a15238/) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
