@@ -71,35 +71,31 @@
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                                 alt="mysql" width="40" height="40" /> </a>
 
-                <!-- MONGODB -->
+            
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                                 alt="mongodb" width="40" height="40" />
 
 
-                   <!-- C -->
+                
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
                                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
                                         alt="c" width="40" height="40" /> </a>
 
-                    <!-- C++/CPP -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
                                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
                                         alt="cplusplus" width="40" height="40" /> </a>
-
-                       <!-- REACT -->
 
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                                         alt="react" width="40" height="40" /> </a>
 
-                      <!-- NODEJS -->
   <a href="https://nodejs.org" target="_blank"
                         rel="noreferrer"> <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
                                 alt="nodejs" width="40" height="40" /> </a> 
-                      <!-- EXPRESS  -->
+                    
                         <a href="https://expressjs.com"
                         target="_blank" rel="noreferrer"> <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
