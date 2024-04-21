@@ -29,7 +29,12 @@
 
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" width="40" height="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" width="40" height="40" />
+</p>
