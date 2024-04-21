@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Divyen Dalwadi</h1>
 
 
+- 🔭 I’m currently working on **Ruby on Rails**
+
+- 🌱 I’m currently learning **React and NodeJs**
+  
+
 [![](https://visitcount.itsvg.in/api?id=Divyen-Dalwadi2000&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Connect with me:
