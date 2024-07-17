@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Divyen Dalwadi</h1>
+<h3 align="center"> <a href="https://divyen-portfolio.netlify.app/"  >My Portfolio</a></h3>
 
 
-- 🔭 I’m currently working on **Ruby on Rails**
 
 - 🌱 I’m currently learning **React and NodeJs**
   
