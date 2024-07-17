@@ -1,3 +1,4 @@
+![logo](https://github.com/Divyen-Dalwadi2000/Divyen-Dalwadi2000/blob/main/Profile.png)
 
 <h1 align="center">Hi 👋, I'm Divyen Dalwadi</h1>
 <h3 align="center"> <a href="https://divyen-portfolio.netlify.app/"  >My Portfolio</a></h3>
