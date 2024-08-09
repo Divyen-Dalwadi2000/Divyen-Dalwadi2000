@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **React and NodeJs**
   
-
-[![](https://visitcount.itsvg.in/api?id=Divyen-Dalwadi2000&icon=5&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Divyen-Dalwadi2000&color=red alt=Mr-Superb/> </p>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyen-dalwadi-638a15238/) 
